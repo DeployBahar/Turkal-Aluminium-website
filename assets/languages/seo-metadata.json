@@ -545,22 +545,22 @@
     }
   },
   "stair-protective-trims.html": {
-    "en": {
-      "title": "Stair Protective Trims | Turkal Aluminium",
-      "description": "Durable stair protective trims to safeguard stair edges and enhance appearance. Ideal for high-traffic areas.",
-      "keywords": "stair protective trims, durable stair trims, stair edge protection, high-traffic areas"
-    },
-    "tr": {
-      "title": "Merdiven Koruyucu Profilleri | Turkal Alüminyum",
-      "description": "Merdiven kenarlarını korumak ve görünümü iyileştirmek için dayanıklı merdiven koruyucu Profilleri. Yoğun trafiğe sahip alanlar için idealdir.",
-      "keywords": "merdiven koruyucu Profilleri, dayanıklı merdiven Profilleri, merdiven kenar koruması, yoğun trafiğe sahip alanlar"
-    },
-    "ar": {
-      "title": "حواف الدرج الواقية | تركال للألمنيوم",
-      "description": "حواف الدرج الواقية المتينة لحماية حواف الدرج وتعزيز المظهر. مثالية للمناطق ذات الحركة المرورية العالية.",
-      "keywords": "حواف الدرج الواقية, حواف الدرج المتينة, حماية حواف الدرج, المناطق ذات الحركة المرورية العالية"
-    }
+  "en": {
+    "title": "Stair Protective Trims | Turkal Aluminium",
+    "description": "Durable stair protective trims to safeguard stair edges and enhance appearance. Ideal for high-traffic areas.",
+    "keywords": "stair protective trims, durable stair trims, stair edge protection, high-traffic areas"
   },
+  "tr": {
+    "title": "Merdiven Koruyucu Profiller | Turkal Alüminyum",
+    "description": "Merdiven kenarlarını korumak ve estetik görünüm sağlamak için dayanıklı alüminyum koruyucu profiller. Yoğun kullanıma uygun endüstriyel çözümler.",
+    "keywords": "merdiven koruyucu profiller, dayanıklı alüminyum profiller, merdiven kenar koruma, yoğun kullanımlı alanlar"
+  },
+  "ar": {
+    "title": "حواف الدرج الواقية | تركال للألمنيوم",
+    "description": "حواف درج ألومنيوم متينة لحماية الحواف وتحسين المظهر. مثالية للمناطق ذات الاستخدام المكثف.",
+    "keywords": "حواف الدرج الواقية, حواف الألمنيوم المتينة, حافة الدرج الواقية, مناطق الاستخدام المكثف"
+  }
+},
   "standard-profiles.html": {
     "en": {
       "title": "Standard Profiles | Turkal Aluminium",
