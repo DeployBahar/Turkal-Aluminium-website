@@ -1,0 +1,771 @@
+{
+    "index.html": {
+      "en": {
+        "title": "Turkal Aluminium | Custom Profile Solutions for Global Industries",
+        "description": "Precision-engineered aluminum profiles for architectural, automotive and industrial applications. +25 years expertise in complex extrusion technologies.",
+        "keywords": "aluminum extrusion,aluminium profiles, custom profiles, architectural systems, industrial solutions, Turkal Aluminium"
+      },
+      "tr": {
+        "title": "Turkal Alüminyum | Endüstriyel Profil Çözümlerinde Küresel Lider",
+        "description": "Mimari, otomotiv ve endüstriyel uygulamalar için yüksek hassasiyetli alüminyum profil çözümleri. +25 yıllık uzmanlık.",
+        "keywords": "alüminyum ekstrüzyon, özel profiller, endüstriyel çözümler, Turkal Alüminyum"
+      },
+      "ar": {
+        "title": "تركال للألمنيوم | حلول مبتكرة لمحات الألمنيوم الصناعية",
+        "description": "حلول متكاملة لمحات الألمنيوم للتطبيقات المعمارية والصناعية. خبرة 25 عامًا في تقنيات البثق المتقدمة.",
+        "keywords": "ألمنيوم مخصص, أنظمة معمارية, حلول صناعية"
+      }
+    },
+    "about.html": {
+      "en": {
+        "title": "Turkal Advantage | Next-Generation Aluminum Technologies",
+        "description": "120,000m² production complex with advanced R&D capabilities. 250+ technical experts delivering precision solutions to +80 countries.",
+        "keywords": "aluminum production, manufacturing expertise, technical team"
+      },
+      "tr": {
+        "title": "Turkal Avantajı | Yeni Nesil Alüminyum Teknolojileri",
+        "description": "+80 ülkeye teknik çözüm sunan 250 uzmanlı ekip. 120.000m²'de ileri Ar-Ge olanakları.",
+        "keywords": "alüminyum üretimi, üretim uzmanlığı, teknik ekip"
+      },
+      "ar": {
+        "title": "مزايا تركال | تقنيات ألمنيوم متطورة",
+        "description": "مجمع إنتاجي 120,000 م² مع قدرات بحث وتطوير متقدمة. فريق فني من 250+ خبير.",
+        "keywords": "إنتاج الألمنيوم, خبرة تصنيع, حلول تقنية"
+      }
+    },
+    "products.html": {
+      "en": {
+        "title": "Turkal Aluminium | Premium Aluminum Profiles for Global Industries",
+        "description": "Manufacturer of high-quality aluminum profiles for architectural, automotive, and industrial applications. Custom solutions with +25 years of expertise in advanced extrusion technologies.",
+        "keywords": "aluminum profiles, custom extrusion, architectural aluminum, industrial aluminum solutions"
+      },
+      "tr": {
+        "title": "Turkal Alüminyum | Endüstriyel ve Mimari Alüminyum Profil Çözümleri",
+        "description": "Mimari, otomotiv ve endüstriyel uygulamalar için yüksek kaliteli alüminyum profil üreticisi. İleri ekstrüzyon teknolojilerinde +25 yıllık uzmanlıkla özel çözümler.",
+        "keywords": "alüminyum profiller, özel ekstrüzyon, mimari alüminyum, endüstriyel alüminyum çözümleri"
+      },
+      "ar": {
+        "title": "تركال للألمنيوم | بروفيلات ألمنيوم عالية الجودة للصناعات العالمية",
+        "description": "مصنع بروفيلات ألمنيوم عالية الجودة للتطبيقات المعمارية والصناعية. حلول مخصصة مع خبرة تفوق 25 عامًا في تقنيات البثق المتقدمة.",
+        "keywords": "بروفيلات ألمنيوم, بثق مخصص, ألمنيوم معماري, حلول ألمنيوم صناعية"
+      }
+    },
+    "contact.html": {
+      "en": {
+        "title": "Global Technical Support | Contact Aluminum Experts",
+        "description": "24/7 multilingual support with rapid response solutions. Engineering consultation for complex project requirements.",
+        "keywords": "aluminum experts, technical consultation, global support"
+      },
+      "tr": {
+        "title": "Küresel Teknik Destek | Alüminyum Uzmanlarına Ulaşın",
+        "description": "Karmaşık proje gereksinimleri için 7/24 çok dilli mühendislik desteği. Hızlı çözüm odaklı iletişim.",
+        "keywords": "teknik destek, mühendislik danışmanlığı, global iletişim"
+      },
+      "ar": {
+        "title": "دعم فني عالمي | تواصل مع خبراء الألمنيوم",
+        "description": "دعم متعدد اللغات على مدار الساعة مع حلول سريعة الاستجابة. استشارات هندسية للمشاريع المعقدة.",
+        "keywords": "خبراء الألمنيوم, استشارات فنية, دعم عالمي"
+      }
+    },
+
+  "advertising-profiles.html": {
+    "en": {
+      "title": "Advertising Profiles | Turkal Aluminium",
+      "description": "Discover high-quality advertising profiles designed for durability and aesthetic appeal. Ideal for various advertising applications.",
+      "keywords": "advertising profiles, durable aluminum profiles, aesthetic profiles, custom advertising solutions"
+    },
+    "tr": {
+      "title": "Reklam Profilleri | Turkal Alüminyum",
+      "description": "Dayanıklılık ve estetik çekicilik için tasarlanmış yüksek kaliteli reklam profillerini keşfedin. Çeşitli reklam uygulamaları için idealdir.",
+      "keywords": "reklam profilleri, dayanıklı alüminyum profiller, estetik profiller, özel reklam çözümleri"
+    },
+    "ar": {
+      "title": "بروفيلات الإعلان | تركال للألمنيوم",
+      "description": "اكتشف بروفيلات الإعلان عالية الجودة المصممة للمتانة والجاذبية الجمالية. مثالية لمختلف تطبيقات الإعلان.",
+      "keywords": "بروفيلات الإعلان, بروفيلات الألمنيوم المتينة, بروفيلات جمالية, حلول إعلانية مخصصة"
+    }
+  },
+  "aldox-profiles.html": {
+    "en": {
+      "title": "Aldox Profiles | Turkal Aluminium",
+      "description": "High-performance Aldox profiles for various industrial applications. Engineered for reliability and efficiency.",
+      "keywords": "Aldox profiles, industrial applications, reliable aluminum profiles, efficient solutions"
+    },
+    "tr": {
+      "title": "Aldox Profilleri | Turkal Alüminyum",
+      "description": "Çeşitli endüstriyel uygulamalar için yüksek performanslı Aldox profilleri. Güvenilirlik ve verimlilik için tasarlanmıştır.",
+      "keywords": "Aldox profilleri, endüstriyel uygulamalar, güvenilir alüminyum profiller, verimli çözümler"
+    },
+    "ar": {
+      "title": "بروفيلات ألدكس | تركال للألمنيوم",
+      "description": "بروفيلات ألدكس عالية الأداء لمختلف التطبيقات الصناعية. مصممة للموثوقية والكفاءة.",
+      "keywords": "بروفيلات ألدكس, تطبيقات صناعية, بروفيلات ألمنيوم موثوقة, حلول فعالة"
+    }
+  },
+  "awning-profiles.html": {
+    "en": {
+      "title": "Awning Profiles | Turkal Aluminium",
+      "description": "Durable and weather-resistant awning profiles for residential and commercial use. Customizable designs to meet your needs.",
+      "keywords": "awning profiles, weather-resistant aluminum, customizable awnings, residential and commercial use"
+    },
+    "tr": {
+      "title": "Tenteler İçin Profiller | Turkal Alüminyum",
+      "description": "Dayanıklı ve hava koşullarına dayanıklı tente profilleri. Özelleştirilebilir tasarımlar ile ihtiyaçlarınıza uygun çözümler.",
+      "keywords": "tente profilleri, hava koşullarına dayanıklı alüminyum, özelleştirilebilir tenteler, konut ve ticari kullanım"
+    },
+    "ar": {
+      "title": "بروفيلات المظلات | تركال للألمنيوم",
+      "description": "بروفيلات المظلات المتينة والمقاومة للعوامل الجوية للاستخدام السكني والتجاري. تصاميم قابلة للتخصيص لتلبية احتياجاتك.",
+      "keywords": "بروفيلات المظلات, الألمنيوم المقاوم للعوامل الجوية, مظلات قابلة للتخصيص, الاستخدام السكني والتجاري"
+    }
+  },
+  "c-60-profiles.html": {
+    "en": {
+      "title": "C-60 Profiles | Turkal Aluminium",
+      "description": "C-60 aluminum profiles designed for structural and architectural applications. High strength and versatility.",
+      "keywords": "C-60 profiles, structural applications, architectural profiles, high-strength aluminum"
+    },
+    "tr": {
+      "title": "C-60 Profilleri | Turkal Alüminyum",
+      "description": "Yapısal ve mimari uygulamalar için tasarlanmış C-60 alüminyum profilleri. Yüksek mukavemet ve çok yönlülük.",
+      "keywords": "C-60 profilleri, yapısal uygulamalar, mimari profiller, yüksek mukavemetli alüminyum"
+    },
+    "ar": {
+      "title": "بروفيلات C-60 | تركال للألمنيوم",
+      "description": "بروفيلات الألمنيوم C-60 مصممة للتطبيقات الهيكلية والمعمارية. قوة عالية وتنوع في الاستخدام.",
+      "keywords": "بروفيلات C-60, تطبيقات هيكلية, بروفيلات معمارية, ألمنيوم عالي القوة"
+    }
+  },
+  "carpet-edging-trims.html": {
+    "en": {
+      "title": "Carpet Edging Trims | Turkal Aluminium",
+      "description": "High-quality carpet edging trims for a neat and professional finish. Suitable for various flooring applications.",
+      "keywords": "carpet edging trims, flooring solutions, professional finish, aluminum trims"
+    },
+    "tr": {
+      "title": "Halı Kenar Profilleri | Turkal Alüminyum",
+      "description": "Düzenli ve profesyonel bir bitiş için yüksek kaliteli halı kenar Profilleri. Çeşitli zemin döşeme uygulamaları için uygundur.",
+      "keywords": "halı kenar Profilleri, zemin çözümleri, profesyonel bitiş, alüminyum Profilleri"
+    },
+    "ar": {
+      "title": "حواف السجاد | تركال للألمنيوم",
+      "description": "حواف السجاد عالية الجودة لإنهاء أنيق واحترافي. مناسبة لمختلف تطبيقات الأرضيات.",
+      "keywords": "حواف السجاد, حلول الأرضيات, إنهاء احترافي, حواف الألمنيوم"
+    }
+  },
+  "closed-round-edge-trims.html": {
+    "en": {
+      "title": "Closed Round Edge Trims | Turkal Aluminium",
+      "description": "Durable closed round edge trims for a smooth and seamless finish. Ideal for various decorative and protective applications.",
+      "keywords": "closed round edge trims, smooth finish, seamless trims, decorative applications"
+    },
+    "tr": {
+      "title": "Kapalı Yuvarlak Kenar Profilleri | Turkal Alüminyum",
+      "description": "Pürüzsüz ve kesintisiz bir bitiş için dayanıklı kapalı yuvarlak kenar Profilleri. Çeşitli dekoratif ve koruyucu uygulamalar için idealdir.",
+      "keywords": "kapalı yuvarlak kenar Profilleri, pürüzsüz bitiş, kesintisiz Profilleri, dekoratif uygulamalar"
+    },
+    "ar": {
+      "title": "حواف مغلقة مستديرة | تركال للألمنيوم",
+      "description": "حواف مغلقة مستديرة متينة لإنهاء سلس وسلس. مثالية لمختلف التطبيقات الزخرفية والحماية.",
+      "keywords": "حواف مغلقة مستديرة, إنهاء سلس, حواف سلسة, تطبيقات زخرفية"
+    }
+  },
+  "decorative-profiles.html": {
+    "en": {
+      "title": "Decorative Profiles | Turkal Aluminium",
+      "description": "Enhance the aesthetic appeal of your projects with our decorative aluminum profiles. Customizable designs for unique applications.",
+      "keywords": "decorative profiles, aesthetic aluminum, customizable designs, unique applications"
+    },
+    "tr": {
+      "title": "Dekoratif Profiller | Turkal Alüminyum",
+      "description": "Projelerinizin estetik çekiciliğini dekoratif alüminyum profillerimiz ile artırın. Benzersiz uygulamalar için özelleştirilebilir tasarımlar.",
+      "keywords": "dekoratif profiller, estetik alüminyum, özelleştirilebilir tasarımlar, benzersiz uygulamalar"
+    },
+    "ar": {
+      "title": "بروفيلات زخرفية | تركال للألمنيوم",
+      "description": "عزز الجاذبية الجمالية لمشاريعك باستخدام لمحات الألمنيوم الزخرفية لدينا. تصاميم قابلة للتخصيص لتطبيقات فريدة.",
+      "keywords": "بروفيلات زخرفية, ألمنيوم جمالي, تصاميم قابلة للتخصيص, تطبيقات فريدة"
+    }
+  },
+  "facade-system-profiles.html": {
+    "en": {
+      "title": "Facade System Profiles | Turkal Aluminium",
+      "description": "High-performance facade system profiles for modern architectural designs. Engineered for durability and energy efficiency.",
+      "keywords": "facade system profiles, modern architecture, durable profiles, energy-efficient systems"
+    },
+    "tr": {
+      "title": "Cephe Sistemi Profilleri | Turkal Alüminyum",
+      "description": "Modern mimari tasarımlar için yüksek performanslı cephe sistemi profilleri. Dayanıklılık ve enerji verimliliği için tasarlanmıştır.",
+      "keywords": "cephe sistemi profilleri, modern mimari, dayanıklı profiller, enerji verimli sistemler"
+    },
+    "ar": {
+      "title": "بروفيلات نظام الواجهة | تركال للألمنيوم",
+      "description": "بروفيلات نظام الواجهة عالية الأداء للتصاميم المعمارية الحديثة. مصممة للمتانة وكفاءة الطاقة.",
+      "keywords": "بروفيلات نظام الواجهة, العمارة الحديثة, بروفيلات متينة, أنظمة كفاءة الطاقة"
+    }
+  },
+  "flyscreen-profiles.html": {
+    "en": {
+      "title": "Flyscreen Profiles | Turkal Aluminium",
+      "description": "Premium flyscreen profiles to keep insects out while allowing fresh air in. Suitable for residential and commercial spaces.",
+      "keywords": "flyscreen profiles, insect protection, fresh air, residential and commercial use"
+    },
+    "tr": {
+      "title": "Sinek Teli Profilleri | Turkal Alüminyum",
+      "description": "Böcekleri uzak tutarken temiz hava girmesini sağlayan premium sinek teli profilleri. Konut ve ticari alanlar için uygundur.",
+      "keywords": "sinek teli profilleri, böcek koruması, temiz hava, konut ve ticari kullanım"
+    },
+    "ar": {
+      "title": "بروفيلات شبكية للحشرات | تركال للألمنيوم",
+      "description": "بروفيلات شبكية للحشرات عالية الجودة لمنع دخول الحشرات مع السماح بدخول الهواء النقي. مناسبة للمساحات السكنية والتجارية.",
+      "keywords": "بروفيلات شبكية للحشرات, حماية من الحشرات, هواء نقي, الاستخدام السكني والتجاري"
+    }
+  },
+  "furniture-profiles.html": {
+    "en": {
+      "title": "Furniture Profiles | Turkal Aluminium",
+      "description": "High-quality furniture profiles designed for durability and style. Perfect for residential and commercial furniture applications.",
+      "keywords": "furniture profiles, durable furniture, stylish profiles, residential and commercial furniture"
+    },
+    "tr": {
+      "title": "Mobilya Profilleri | Turkal Alüminyum",
+      "description": "Dayanıklılık ve stil için tasarlanmış yüksek kaliteli mobilya profilleri. Konut ve ticari mobilya uygulamaları için mükemmeldir.",
+      "keywords": "mobilya profilleri, dayanıklı mobilya, şık profiller, konut ve ticari mobilya"
+    },
+    "ar": {
+      "title": "بروفيلات الأثاث | تركال للألمنيوم",
+      "description": "بروفيلات الأثاث عالية الجودة مصممة للمتانة والأناقة. مثالية لتطبيقات الأثاث السكني والتجاري.",
+      "keywords": "بروفيلات الأثاث, أثاث متين, بروفيلات أنيقة, الأثاث السكني والتجاري"
+    }
+  },
+  "glass-base-profiles.html": {
+    "en": {
+      "title": "Glass Base Profiles | Turkal Aluminium",
+      "description": "Durable glass base profiles for secure and stylish glass installations. Ideal for both residential and commercial projects.",
+      "keywords": "glass base profiles, secure glass installations, stylish profiles, residential and commercial projects"
+    },
+    "tr": {
+      "title": "Cam Taban Profilleri | Turkal Alüminyum",
+      "description": "Sağlam ve şık cam montajları için dayanıklı cam taban profilleri. Hem konut hem de ticari projeler için idealdir.",
+      "keywords": "cam taban profilleri, güvenli cam montajları, şık profiller, konut ve ticari projeler"
+    },
+    "ar": {
+      "title": "بروفيلات قاعدة الزجاج | تركال للألمنيوم",
+      "description": "بروفيلات قاعدة الزجاج المتينة لتركيبات الزجاج الآمنة والأنيقة. مثالية للمشاريع السكنية والتجارية.",
+      "keywords": "بروفيلات قاعدة الزجاج, تركيبات زجاج آمنة, بروفيلات أنيقة, المشاريع السكنية والتجارية"
+    }
+  },
+  "handrail-profiles.html": {
+    "en": {
+      "title": "Handrail Profiles | Turkal Aluminium",
+      "description": "High-quality handrail profiles for safety and support in various settings. Ideal for residential, commercial, and industrial applications.",
+      "keywords": "handrail profiles, aluminum handrails, safety handrails, support handrails"
+    },
+    "tr": {
+      "title": "Korkuluk Profilleri | Turkal Alüminyum",
+      "description": "Çeşitli ortamlarda güvenlik ve destek için yüksek kaliteli korkuluk profilleri. Konut, ticari ve endüstriyel uygulamalar için idealdir.",
+      "keywords": "korkuluk profilleri, alüminyum korkuluklar, güvenlik korkulukları, destek korkulukları"
+    },
+    "ar": {
+      "title": "بروفيلات الدرابزين | تركال للألمنيوم",
+      "description": "بروفيلات الدرابزين عالية الجودة للسلامة والدعم في مختلف الأماكن. مثالية للتطبيقات السكنية والتجارية والصناعية.",
+      "keywords": "بروفيلات الدرابزين, درابزين الألمنيوم, درابزين الأمان, درابزين الدعم"
+    }
+  },
+  "hinge-profiles.html": {
+    "en": {
+      "title": "Hinge Profiles | Turkal Aluminium",
+      "description": "High-strength hinge profiles for reliable and smooth operation. Ideal for doors, windows, and other applications requiring durable hinges.",
+      "keywords": "hinge profiles, aluminum hinges, durable hinges, door and window hinges"
+    },
+    "tr": {
+      "title": "Menteşe Profilleri | Turkal Alüminyum",
+      "description": "Güvenilir ve sorunsuz çalıştırma için yüksek mukavemetli menteşe profilleri. Kapılar, pencereler ve dayanıklı menteşe gerektiren diğer uygulamalar için idealdir.",
+      "keywords": "menteşe profilleri, alüminyum menteşeler, dayanıklı menteşeler, kapı ve pencere menteşeleri"
+    },
+    "ar": {
+      "title": "بروفيلات المفصلات | تركال للألمنيوم",
+      "description": "بروفيلات المفصلات عالية القوة لتشغيل موثوق وسلس. مثالية للأبواب والنوافذ والتطبيقات الأخرى التي تتطلب مفصلات متينة.",
+      "keywords": "بروفيلات المفصلات, مفصلات الألمنيوم, مفصلات متينة, مفصلات الأبواب والنوافذ"
+    }
+  },
+  "inner-corner-cove-trims.html": {
+    "en": {
+      "title": "Inner Corner Cove Trims | Turkal Aluminium",
+      "description": "Elegant inner corner cove trims for a seamless and polished look. Suitable for various decorative applications.",
+      "keywords": "inner corner cove trims, decorative trims, seamless trims, polished look"
+    },
+    "tr": {
+      "title": "İç Köşe Kıvrımlı Profilleri | Turkal Alüminyum",
+      "description": "Kesintisiz ve cilalı bir görünüm için şık iç köşe kıvrımlı Profilleri. Çeşitli dekoratif uygulamalar için uygundur.",
+      "keywords": "iç köşe kıvrımlı Profilleri, dekoratif Profilleri, kesintisiz Profilleri, cilalı görünüm"
+    },
+    "ar": {
+      "title": "حواف الزوايا الداخلية | تركال للألمنيوم",
+      "description": "حواف الزوايا الداخلية الأنيقة لمظهر سلس ومصقول. مناسبة لمختلف التطبيقات الزخرفية.",
+      "keywords": "حواف الزوايا الداخلية, حواف زخرفية, حواف سلسة, مظهر مصقول"
+    }
+  },
+  "ladder-profiles.html": {
+    "en": {
+      "title": "Ladder Profiles | Turkal Aluminium",
+      "description": "Sturdy ladder profiles for safe and reliable climbing solutions. Engineered for both residential and industrial use.",
+      "keywords": "ladder profiles, aluminum ladders, sturdy ladder profiles, safe climbing solutions"
+    },
+    "tr": {
+      "title": "Merdiven Profilleri | Turkal Alüminyum",
+      "description": "Güvenli ve güvenilir tırmanma çözümleri için sağlam merdiven profilleri. Hem konut hem de endüstriyel kullanım için tasarlanmıştır.",
+      "keywords": "merdiven profilleri, alüminyum merdivenler, sağlam merdiven profilleri, güvenli tırmanma çözümleri"
+    },
+    "ar": {
+      "title": "بروفيلات السلالم | تركال للألمنيوم",
+      "description": "بروفيلات السلالم المتينة لحلول التسلق الآمنة والموثوقة. مصممة للاستخدام السكني والصناعي.",
+      "keywords": "بروفيلات السلالم, سلالم الألمنيوم, بروفيلات السلالم المتينة, حلول التسلق الآمنة"
+    }
+  },
+  "levelling-ramp-differen.html": {
+    "en": {
+      "title": "Levelling Ramp Profiles | Turkal Aluminium",
+      "description": "High-quality levelling ramp profiles for smooth and safe transitions. Suitable for various flooring applications.",
+      "keywords": "levelling ramp profiles, flooring solutions, smooth transitions, safe ramps"
+    },
+    "tr": {
+      "title": "Denge Rampası Profilleri | Turkal Alüminyum",
+      "description": "Düzgün ve güvenli geçişler için yüksek kaliteli denge rampası profilleri. Çeşitli zemin uygulamaları için uygundur.",
+      "keywords": "denge rampası profilleri, zemin çözümleri, düzgün geçişler, güvenli rampalar"
+    },
+    "ar": {
+      "title": "بروفيلات منحدر التسوية | تركال للألمنيوم",
+      "description": "بروفيلات منحدر التسوية عالية الجودة للانتقالات السلسة والآمنة. مناسبة لمختلف تطبيقات الأرضيات.",
+      "keywords": "بروفيلات منحدر التسوية, حلول الأرضيات, انتقالات سلسة, منحدرات آمنة"
+    }
+  },
+  "lighting-profiles.html": {
+    "en": {
+      "title": "Lighting Profiles | Turkal Aluminium",
+      "description": "Innovative lighting profiles designed for optimal light distribution and aesthetic appeal. Perfect for residential and commercial lighting solutions.",
+      "keywords": "lighting profiles, aluminum lighting, optimal light distribution, aesthetic lighting"
+    },
+    "tr": {
+      "title": "Aydınlatma Profilleri | Turkal Alüminyum",
+      "description": "Optimum ışık dağılımı ve estetik çekicilik için tasarlanmış yenilikçi aydınlatma profilleri. Konut ve ticari aydınlatma çözümleri için mükemmeldir.",
+      "keywords": "aydınlatma profilleri, alüminyum aydınlatma, optimum ışık dağılımı, estetik aydınlatma"
+    },
+    "ar": {
+      "title": "بروفيلات الإضاءة | تركال للألمنيوم",
+      "description": "بروفيلات الإضاءة المبتكرة المصممة لتوزيع الضوء الأمثل والجاذبية الجمالية. مثالية لحلول الإضاءة السكنية والتجارية.",
+      "keywords": "بروفيلات الإضاءة, إضاءة الألمنيوم, توزيع الضوء الأمثل, إضاءة جمالية"
+    }
+  },
+  "parquet-laminate-lvt-p.html": {
+    "en": {
+      "title": "Parquet, Laminate, and LVT Profiles | Turkal Aluminium",
+      "description": "High-quality profiles for parquet, laminate, and LVT flooring. Designed for durability and a seamless finish.",
+      "keywords": "parquet profiles, laminate profiles, LVT profiles, flooring solutions, durable profiles"
+    },
+    "tr": {
+      "title": "Parke, Laminat ve LVT Profilleri | Turkal Alüminyum",
+      "description": "Parke, laminat ve LVT zeminler için yüksek kaliteli profiller. Dayanıklılık ve kesintisiz bir bitiş için tasarlanmıştır.",
+      "keywords": "parke profilleri, laminat profilleri, LVT profilleri, zemin çözümleri, dayanıklı profiller"
+    },
+    "ar": {
+      "title": "بروفيلات الباركيه واللامينيت وLVT | تركال للألمنيوم",
+      "description": "بروفيلات عالية الجودة لأرضيات الباركيه واللامينيت وLVT. مصممة للمتانة وإنهاء سلس.",
+      "keywords": "بروفيلات الباركيه, بروفيلات اللامينيت, بروفيلات LVT, حلول الأرضيات, بروفيلات متينة"
+    }
+  },
+  "plinth-profiles.html": {
+    "en": {
+      "title": "Plinth Profiles | Turkal Aluminium",
+      "description": "Elegant and durable plinth profiles for a polished and finished look. Ideal for various decorative and protective applications.",
+      "keywords": "plinth profiles, decorative profiles, durable plinths, polished look"
+    },
+    "tr": {
+      "title": "Süpürgelik Profilleri | Turkal Alüminyum",
+      "description": "Cilalı ve tamamlanmış bir görünüm için şık ve dayanıklı süpürgelik profilleri. Çeşitli dekoratif ve koruyucu uygulamalar için idealdir.",
+      "keywords": "süpürgelik profilleri, dekoratif profiller, dayanıklı süpürgelikler, cilalı görünüm"
+    },
+    "ar": {
+      "title": "بروفيلات القاعدة | تركال للألمنيوم",
+      "description": "بروفيلات القاعدة الأنيقة والمتينة لمظهر مصقول ونهائي. مثالية لمختلف التطبيقات الزخرفية والحماية.",
+      "keywords": "بروفيلات القاعدة, بروفيلات زخرفية, قواعد متينة, مظهر مصقول"
+    }
+  },
+  "shelf-profiles.html": {
+    "en": {
+      "title": "Shelf Profiles | Turkal Aluminium",
+      "description": "High-quality shelf profiles designed for strength and aesthetic appeal. Suitable for residential and commercial shelving solutions.",
+      "keywords": "shelf profiles, aluminum shelves, durable shelving, aesthetic shelving"
+    },
+    "tr": {
+      "title": "Raf Profilleri | Turkal Alüminyum",
+      "description": "Güç ve estetik çekicilik için tasarlanmış yüksek kaliteli raf profilleri. Konut ve ticari raf çözümleri için uygundur.",
+      "keywords": "raf profilleri, alüminyum raflar, dayanıklı raflar, estetik raflar"
+    },
+    "ar": {
+      "title": "بروفيلات الرفوف | تركال للألمنيوم",
+      "description": "بروفيلات الرفوف عالية الجودة المصممة للقوة والجاذبية الجمالية. مناسبة لحلول الرفوف السكنية والتجارية.",
+      "keywords": "بروفيلات الرفوف, رفوف الألمنيوم, رفوف متينة, رفوف جمالية"
+    }
+  },
+  "shower-cabin-profiles.html": {
+    "en": {
+      "title": "Shower Cabin Profiles | Turkal Aluminium",
+      "description": "Durable shower cabin profiles for secure and stylish installations. Perfect for residential and commercial bathrooms.",
+      "keywords": "shower cabin profiles, aluminum shower cabins, durable profiles, stylish shower cabins"
+    },
+    "tr": {
+      "title": "Duş Kabini Profilleri | Turkal Alüminyum",
+      "description": "Güvenli ve şık montajlar için dayanıklı duş kabini profilleri. Konut ve ticari banyolar için mükemmeldir.",
+      "keywords": "duş kabini profilleri, alüminyum duş kabinleri, dayanıklı profiller, şık duş kabinleri"
+    },
+    "ar": {
+      "title": "بروفيلات كابينة الدش | تركال للألمنيوم",
+      "description": "بروفيلات كابينة الدش المتينة للتركيبات الآمنة والأنيقة. مثالية للحمامات السكنية والتجارية.",
+      "keywords": "بروفيلات كابينة الدش, كبائن الدش الألمنيوم, بروفيلات متينة, كبائن دش أنيقة"
+    }
+  },
+  "heater-profiles.html": {
+    "en": {
+      "title": "Heater Profiles | Turkal Aluminium",
+      "description": "Durable heater profiles designed for efficient heat distribution and long-lasting performance. Suitable for residential and industrial use.",
+      "keywords": "heater profiles, aluminum heaters, efficient heat distribution, durable heater profiles"
+    },
+    "tr": {
+      "title": "Isıtıcı Profilleri | Turkal Alüminyum",
+      "description": "Verimli ısı dağılımı ve uzun ömürlü performans için tasarlanmış dayanıklı ısıtıcı profilleri. Konut ve endüstriyel kullanım için uygundur.",
+      "keywords": "ısıtıcı profilleri, alüminyum ısıtıcılar, verimli ısı dağılımı, dayanıklı ısıtıcı profilleri"
+    },
+    "ar": {
+      "title": "بروفيلات السخان | تركال للألمنيوم",
+      "description": "بروفيلات السخان المتينة المصممة لتوزيع الحرارة بكفاءة وأداء طويل الأمد. مناسبة للاستخدام السكني والصناعي.",
+      "keywords": "بروفيلات السخان, سخانات الألمنيوم, توزيع الحرارة بكفاءة, بروفيلات سخان متينة"
+    }
+  },
+  "shutter-profiles.html": {
+    "en": {
+      "title": "Shutter Profiles | Turkal Aluminium",
+      "description": "Robust shutter profiles for reliable and secure window and door shutters. Ideal for residential and commercial applications.",
+      "keywords": "shutter profiles, aluminum shutters, secure window shutters, door shutters"
+    },
+    "tr": {
+      "title": "Panjur Profilleri | Turkal Alüminyum",
+      "description": "Güvenilir ve güvenli pencere ve kapı panjurları için sağlam panjur profilleri. Konut ve ticari uygulamalar için idealdir.",
+      "keywords": "panjur profilleri, alüminyum panjurlar, güvenli pencere panjurları, kapı panjurları"
+    },
+    "ar": {
+      "title": "بروفيلات المصاريع | تركال للألمنيوم",
+      "description": "بروفيلات المصاريع القوية لمصاريع النوافذ والأبواب الموثوقة والآمنة. مثالية للتطبيقات السكنية والتجارية.",
+      "keywords": "بروفيلات المصاريع, مصاريع الألمنيوم, مصاريع النوافذ الآمنة, مصاريع الأبواب"
+    }
+  },
+  "sigma-profiles.html": {
+    "en": {
+      "title": "Sigma Profiles | Turkal Aluminium",
+      "description": "High-quality sigma profiles for structural and industrial applications. Engineered for strength and versatility.",
+      "keywords": "sigma profiles, structural applications, industrial profiles, durable sigma profiles"
+    },
+    "tr": {
+      "title": "Sigma Profilleri | Turkal Alüminyum",
+      "description": "Yapısal ve endüstriyel uygulamalar için yüksek kaliteli sigma profilleri. Güç ve çok yönlülük için tasarlanmıştır.",
+      "keywords": "sigma profilleri, yapısal uygulamalar, endüstriyel profiller, dayanıklı sigma profilleri"
+    },
+    "ar": {
+      "title": "بروفيلات سيجما | تركال للألمنيوم",
+      "description": "بروفيلات سيجما عالية الجودة للتطبيقات الهيكلية والصناعية. مصممة للقوة والتنوع.",
+      "keywords": "بروفيلات سيجما, تطبيقات هيكلية, بروفيلات صناعية, بروفيلات سيجما متينة"
+    }
+  },
+  "solar-energy-profiles.html": {
+    "en": {
+      "title": "Solar Energy Profiles | Turkal Aluminium",
+      "description": "Durable solar energy profiles designed for optimal performance and efficiency. Ideal for various solar energy applications.",
+      "keywords": "solar energy profiles, aluminum solar profiles, efficient solar solutions, durable solar profiles"
+    },
+    "tr": {
+      "title": "Güneş Enerjisi Profilleri | Turkal Alüminyum",
+      "description": "Optimum performans ve verimlilik için tasarlanmış dayanıklı güneş enerjisi profilleri. Çeşitli güneş enerjisi uygulamaları için idealdir.",
+      "keywords": "güneş enerjisi profilleri, alüminyum güneş profilleri, verimli güneş çözümleri, dayanıklı güneş profilleri"
+    },
+    "ar": {
+      "title": "بروفيلات الطاقة الشمسية | تركال للألمنيوم",
+      "description": "بروفيلات الطاقة الشمسية المتينة المصممة للأداء والكفاءة المثلى. مثالية لمختلف تطبيقات الطاقة الشمسية.",
+      "keywords": "بروفيلات الطاقة الشمسية, بروفيلات الألمنيوم الشمسية, حلول الطاقة الشمسية الفعالة, بروفيلات الطاقة الشمسية المتينة"
+    }
+  },
+  "stainless-steel-floor-profiles.html": {
+    "en": {
+      "title": "Stainless Steel Floor Profiles | Turkal Aluminium",
+      "description": "High-quality stainless steel floor profiles for durability and a polished finish. Suitable for residential and commercial flooring solutions.",
+      "keywords": "stainless steel floor profiles, durable flooring, polished floor profiles, residential and commercial flooring"
+    },
+    "tr": {
+      "title": "Paslanmaz Çelik Zemin Profilleri | Turkal Alüminyum",
+      "description": "Dayanıklılık ve cilalı bir bitiş için yüksek kaliteli paslanmaz çelik zemin profilleri. Konut ve ticari zemin çözümleri için uygundur.",
+      "keywords": "paslanmaz çelik zemin profilleri, dayanıklı zemin, cilalı zemin profilleri, konut ve ticari zemin"
+    },
+    "ar": {
+      "title": "بروفيلات الأرضيات من الفولاذ المقاوم للصدأ | تركال للألمنيوم",
+      "description": "بروفيلات الأرضيات من الفولاذ المقاوم للصدأ عالية الجودة للمتانة وإنهاء مصقول. مناسبة لحلول الأرضيات السكنية والتجارية.",
+      "keywords": "بروفيلات الأرضيات من الفولاذ المقاوم للصدأ, أرضيات متينة, بروفيلات أرضيات مصقولة, الأرضيات السكنية والتجارية"
+    }
+  },
+  "stainless-steel-profiles.html": {
+    "en": {
+      "title": "Stainless Steel Profiles | Turkal Aluminium",
+      "description": "Durable and corrosion-resistant stainless steel profiles for various applications. Ideal for both structural and decorative uses.",
+      "keywords": "stainless steel profiles, corrosion-resistant profiles, structural profiles, decorative stainless steel"
+    },
+    "tr": {
+      "title": "Paslanmaz Çelik Profilleri | Turkal Alüminyum",
+      "description": "Çeşitli uygulamalar için dayanıklı ve korozyona dayanıklı paslanmaz çelik profiller. Hem yapısal hem de dekoratif kullanımlar için idealdir.",
+      "keywords": "paslanmaz çelik profilleri, korozyona dayanıklı profiller, yapısal profiller, dekoratif paslanmaz çelik"
+    },
+    "ar": {
+      "title": "بروفيلات الفولاذ المقاوم للصدأ | تركال للألمنيوم",
+      "description": "بروفيلات الفولاذ المقاوم للصدأ المتينة والمقاومة للتآكل لمختلف التطبيقات. مثالية للاستخدامات الهيكلية والزخرفية.",
+      "keywords": "بروفيلات الفولاذ المقاوم للصدأ, بروفيلات مقاومة للتآكل, بروفيلات هيكلية, الفولاذ المقاوم للصدأ الزخرفي"
+    }
+  },
+  "stair-nosing-trims.html": {
+    "en": {
+      "title": "Stair Nosing Trims | Turkal Aluminium",
+      "description": "High-quality stair nosing trims for enhanced safety and aesthetics. Suitable for residential and commercial stairs.",
+      "keywords": "stair nosing trims, safety stair trims, aesthetic stair trims, residential and commercial stairs"
+    },
+    "tr": {
+      "title": "Merdiven Basamak Profilleri | Turkal Alüminyum",
+      "description": "Güvenlik ve estetiği artırmak için yüksek kaliteli merdiven basamak Profilleri. Konut ve ticari merdivenler için uygundur.",
+      "keywords": "merdiven basamak Profilleri, güvenlik merdiven Profilleri, estetik merdiven Profilleri, konut ve ticari merdivenler"
+    },
+    "ar": {
+      "title": "حواف الدرج | تركال للألمنيوم",
+      "description": "حواف الدرج عالية الجودة لتعزيز الأمان والجمال. مناسبة للدرج السكني والتجاري.",
+      "keywords": "حواف الدرج, حواف الدرج الآمنة, حواف الدرج الجمالية, الدرج السكني والتجاري"
+    }
+  },
+  "stair-protective-trims.html": {
+    "en": {
+      "title": "Stair Protective Trims | Turkal Aluminium",
+      "description": "Durable stair protective trims to safeguard stair edges and enhance appearance. Ideal for high-traffic areas.",
+      "keywords": "stair protective trims, durable stair trims, stair edge protection, high-traffic areas"
+    },
+    "tr": {
+      "title": "Merdiven Koruyucu Profilleri | Turkal Alüminyum",
+      "description": "Merdiven kenarlarını korumak ve görünümü iyileştirmek için dayanıklı merdiven koruyucu Profilleri. Yoğun trafiğe sahip alanlar için idealdir.",
+      "keywords": "merdiven koruyucu Profilleri, dayanıklı merdiven Profilleri, merdiven kenar koruması, yoğun trafiğe sahip alanlar"
+    },
+    "ar": {
+      "title": "حواف الدرج الواقية | تركال للألمنيوم",
+      "description": "حواف الدرج الواقية المتينة لحماية حواف الدرج وتعزيز المظهر. مثالية للمناطق ذات الحركة المرورية العالية.",
+      "keywords": "حواف الدرج الواقية, حواف الدرج المتينة, حماية حواف الدرج, المناطق ذات الحركة المرورية العالية"
+    }
+  },
+  "standard-profiles.html": {
+    "en": {
+      "title": "Standard Profiles | Turkal Aluminium",
+      "description": "A wide range of standard aluminum profiles for various applications. High-quality and versatile for industrial, commercial, and residential use.",
+      "keywords": "standard profiles, aluminum profiles, versatile profiles, industrial and commercial profiles"
+    },
+    "tr": {
+      "title": "Standart Profiller | Turkal Alüminyum",
+      "description": "Çeşitli uygulamalar için geniş bir yelpazede standart alüminyum profiller. Endüstriyel, ticari ve konut kullanımı için yüksek kaliteli ve çok yönlü.",
+      "keywords": "standart profiller, alüminyum profiller, çok yönlü profiller, endüstriyel ve ticari profiller"
+    },
+    "ar": {
+      "title": "البروفيلات القياسية | تركال للألمنيوم",
+      "description": "مجموعة واسعة من بروفيلات الألمنيوم القياسية لمختلف التطبيقات. عالية الجودة ومتعددة الاستخدامات للاستخدام الصناعي والتجاري والسكني.",
+      "keywords": "البروفيلات القياسية, بروفيلات الألمنيوم, البروفيلات متعددة الاستخدامات, البروفيلات الصناعية والتجارية"
+    }
+  },
+  "straight-edge-trims.html": {
+    "en": {
+      "title": "Straight Edge Trims | Turkal Aluminium",
+      "description": "High-quality straight edge trims for a clean and professional finish. Suitable for various decorative and protective applications.",
+      "keywords": "straight edge trims, clean finish, professional trims, decorative applications"
+    },
+    "tr": {
+      "title": "Düz Kenar Profiller | Turkal Alüminyum",
+      "description": "Temiz ve profesyonel bir bitiş için yüksek kaliteli düz kenar Profilleri. Çeşitli dekoratif ve koruyucu uygulamalar için uygundur.",
+      "keywords": "düz kenar Profilleri, temiz bitiş, profesyonel Profilleri, dekoratif uygulamalar"
+    },
+    "ar": {
+      "title": "حواف الحافة المستقيمة | تركال للألمنيوم",
+      "description": "حواف الحافة المستقيمة عالية الجودة لإنهاء نظيف واحترافي. مناسبة لمختلف التطبيقات الزخرفية والحماية.",
+      "keywords": "حواف الحافة المستقيمة, إنهاء نظيف, حواف احترافية, تطبيقات زخرفية"
+    }
+  },
+  "t-profiles.html": {
+    "en": {
+      "title": "T-Profiles | Turkal Aluminium",
+      "description": "Durable T-profiles for structural and decorative applications. High versatility and strength for various uses.",
+      "keywords": "T-profiles, structural profiles, decorative T-profiles, versatile aluminum profiles"
+    },
+    "tr": {
+      "title": "T Profilleri | Turkal Alüminyum",
+      "description": "Yapısal ve dekoratif uygulamalar için dayanıklı T profilleri. Çeşitli kullanımlar için yüksek çok yönlülük ve mukavemet.",
+      "keywords": "T profilleri, yapısal profiller, dekoratif T profilleri, çok yönlü alüminyum profiller"
+    },
+    "ar": {
+      "title": "بروفيلات T | تركال للألمنيوم",
+      "description": "بروفيلات T المتينة للتطبيقات الهيكلية والزخرفية. متعددة الاستخدامات وقوية لمختلف الاستخدامات.",
+      "keywords": "بروفيلات T, بروفيلات هيكلية, بروفيلات T الزخرفية, بروفيلات الألمنيوم المتعددة الاستخدامات"
+    }
+  },
+  "tile-leveling-system.html": {
+    "en": {
+      "title": "Tile Leveling System | Turkal Aluminium",
+      "description": "Efficient tile leveling system for perfectly aligned tiles. Easy to use and ensures a professional finish for flooring projects.",
+      "keywords": "tile leveling system, tile alignment, flooring projects, professional finish"
+    },
+    "tr": {
+      "title": "Fayans Dengeleme Sistemi | Turkal Alüminyum",
+      "description": "Mükemmel hizalanmış fayanslar için verimli fayans dengeleme sistemi. Kullanımı kolaydır ve zemin projelerinde profesyonel bir bitiş sağlar.",
+      "keywords": "fayans dengeleme sistemi, fayans hizalama, zemin projeleri, profesyonel bitiş"
+    },
+    "ar": {
+      "title": "نظام تسوية البلاط | تركال للألمنيوم",
+      "description": "نظام تسوية البلاط الفعال للحصول على بلاط محاذي تمامًا. سهل الاستخدام ويضمن تشطيبًا احترافيًا لمشاريع الأرضيات.",
+      "keywords": "نظام تسوية البلاط, محاذاة البلاط, مشاريع الأرضيات, تشطيب احترافي"
+    }
+  },
+  "triangular-edge-trims.html": {
+    "en": {
+      "title": "Triangular Edge Trims | Turkal Aluminium",
+      "description": "High-quality triangular edge trims for a clean and modern finish. Suitable for various decorative and protective applications.",
+      "keywords": "triangular edge trims, clean finish, modern trims, decorative applications"
+    },
+    "tr": {
+      "title": "Üçgen Kenar Profilleri | Turkal Alüminyum",
+      "description": "Temiz ve modern bir bitiş için yüksek kaliteli üçgen kenar Profilleri. Çeşitli dekoratif ve koruyucu uygulamalar için uygundur.",
+      "keywords": "üçgen kenar Profilleri, temiz bitiş, modern Profilleri, dekoratif uygulamalar"
+    },
+    "ar": {
+      "title": "حواف الحافة المثلثة | تركال للألمنيوم",
+      "description": "حواف الحافة المثلثة عالية الجودة لإنهاء نظيف وحديث. مناسبة لمختلف التطبيقات الزخرفية والحماية.",
+      "keywords": "حواف الحافة المثلثة, إنهاء نظيف, حواف حديثة, تطبيقات زخرفية"
+    }
+  },
+  "vent-profiles.html": {
+    "en": {
+      "title": "Vent Profiles | Turkal Aluminium",
+      "description": "Durable vent profiles designed for optimal airflow and ventilation. Ideal for residential and commercial applications.",
+      "keywords": "vent profiles, optimal airflow, ventilation solutions, durable vent profiles"
+    },
+    "tr": {
+      "title": "Havalandırma Profilleri | Turkal Alüminyum",
+      "description": "Optimum hava akışı ve havalandırma için tasarlanmış dayanıklı havalandırma profilleri. Konut ve ticari uygulamalar için idealdir.",
+      "keywords": "havalandırma profilleri, optimum hava akışı, havalandırma çözümleri, dayanıklı havalandırma profilleri"
+    },
+    "ar": {
+      "title": "بروفيلات التهوية | تركال للألمنيوم",
+      "description": "بروفيلات التهوية المتينة المصممة لتدفق الهواء الأمثل والتهوية. مثالية للتطبيقات السكنية والتجارية.",
+      "keywords": "بروفيلات التهوية, تدفق الهواء الأمثل, حلول التهوية, بروفيلات التهوية المتينة"
+    }
+  },
+  "wall-corner-guard-profiles.html": {
+    "en": {
+      "title": "Wall Corner Guard Profiles | Turkal Aluminium",
+      "description": "Protective wall corner guard profiles to prevent damage and enhance appearance. Suitable for residential and commercial spaces.",
+      "keywords": "wall corner guard profiles, protective profiles, damage prevention, residential and commercial spaces"
+    },
+    "tr": {
+      "title": "Duvar Köşe Koruyucu Profilleri | Turkal Alüminyum",
+      "description": "Hasarı önlemek ve görünümü iyileştirmek için koruyucu duvar köşe koruyucu profilleri. Konut ve ticari alanlar için uygundur.",
+      "keywords": "duvar köşe koruyucu profiller, koruyucu profiller, hasar önleme, konut ve ticari alanlar"
+    },
+    "ar": {
+      "title": "بروفيلات حراسة زاوية الجدار | تركال للألمنيوم",
+      "description": "بروفيلات حراسة زاوية الجدار الوقائية لمنع التلف وتعزيز المظهر. مناسبة للمساحات السكنية والتجارية.",
+      "keywords": "بروفيلات حراسة زاوية الجدار, بروفيلات وقائية, منع التلف, المساحات السكنية والتجارية"
+    }
+  },
+    "windowsill-profiles.html": {
+      "en": {
+        "title": "Windowsill Profiles | Premium Aluminum Solutions by Turkal",
+        "description": "Durable and aesthetically designed windowsill profiles for modern architecture. Ideal for both residential and commercial window applications.",
+        "keywords": "windowsill profiles, aluminum windowsills, window solutions, architectural profiles"
+      },
+      "tr": {
+        "title": "Pencere Eşiği Profilleri | Turkal Alüminyum",
+        "description": "Modern mimariler için dayanıklı ve estetik tasarımlı pencere eşiği profilleri. Hem konut hem de ticari pencere uygulamaları için idealdir.",
+        "keywords": "pencere eşiği profilleri, alüminyum pencere eşikleri, pencere çözümleri, mimari profiller"
+      },
+      "ar": {
+        "title": "بروفيلات عتبة النافذة | حلول الألمنيوم المميزة من تركال",
+        "description": "بروفيلات عتبة النافذة المصممة بدقة للمباني الحديثة. مثالية للتطبيقات السكنية والتجارية.",
+        "keywords": "بروفيلات عتبة النافذة, عتبات نوافذ ألومنيوم, حلول النوافذ, بروفيلات معمارية"
+      }
+    },
+    "404.html": {
+    "en": {
+      "title": "Page Not Found | Turkal Aluminium",
+      "description": "Oops! The page you are looking for does not exist. Please check the URL or return to the homepage.",
+      "keywords": "404 error, page not found, Turkal Aluminium"
+    },
+    "tr": {
+      "title": "Sayfa Bulunamadı | Turkal Alüminyum",
+      "description": "Hata! Aradığınız sayfa bulunamadı. Lütfen URL'yi kontrol edin veya ana sayfaya dönün.",
+      "keywords": "404 hatası, sayfa bulunamadı, Turkal Alüminyum"
+    },
+    "ar": {
+      "title": "الصفحة غير موجودة | تركال للألمنيوم",
+      "description": "عذرًا! الصفحة التي تبحث عنها غير موجودة. يرجى التحقق من الرابط أو العودة إلى الصفحة الرئيسية.",
+      "keywords": "خطأ 404, صفحة غير موجودة, تركال للألمنيوم"
+    }
+  },
+  "blog.html": {
+    "en": {
+      "title": "Blog | Turkal Aluminium",
+      "description": "Stay updated with the latest trends, tips, and innovations in the aluminum industry with Turkal Aluminium's blog.",
+      "keywords": "aluminum industry blog, latest trends, Turkal Aluminium news"
+    },
+    "tr": {
+      "title": "Blog | Turkal Alüminyum",
+      "description": "Turkal Alüminyum'un blogu ile alüminyum endüstrisindeki son trendler, ipuçları ve yenilikler hakkında güncel kalın.",
+      "keywords": "alüminyum endüstrisi blog, son trendler, Turkal Alüminyum haberleri"
+    },
+    "ar": {
+      "title": "مدونة | تركال للألمنيوم",
+      "description": "ابق على اطلاع بآخر الاتجاهات والنصائح والابتكارات في صناعة الألمنيوم مع مدونة تركال للألمنيوم.",
+      "keywords": "مدونة صناعة الألمنيوم, أحدث الاتجاهات, أخبار تركال للألمنيوم"
+    }
+  },
+  "ceo.html": {
+    "en": {
+      "title": "Message from the CEO | Turkal Aluminium",
+      "description": "Read the CEO's message to learn about our vision, mission, and commitment to excellence in the aluminum industry.",
+      "keywords": "CEO message, Turkal Aluminium vision, commitment to excellence"
+    },
+    "tr": {
+      "title": "CEO'nun Mesajı | Turkal Alüminyum",
+      "description": "CEO'muzun mesajını okuyarak alüminyum endüstrisindeki vizyonumuz, misyonumuz ve mükemmellik taahhüdümüz hakkında bilgi edinin.",
+      "keywords": "CEO mesajı, Turkal Alüminyum vizyonu, mükemmellik taahhüdü"
+    },
+    "ar": {
+      "title": "رسالة من الرئيس التنفيذي | تركال للألمنيوم",
+      "description": "اقرأ رسالة الرئيس التنفيذي لتعرف عن رؤيتنا ورسالتنا والتزامنا بالتميز في صناعة الألمنيوم.",
+      "keywords": "رسالة الرئيس التنفيذي, رؤية تركال للألمنيوم, التزام بالتميز"
+    }
+  },
+  "gallery.html": {
+    "en": {
+      "title": "Gallery | Turkal Aluminium",
+      "description": "Explore our gallery to see the production stages and the quality of our aluminum profiles in various applications.",
+      "keywords": "aluminum production gallery, Turkal Aluminium quality, profile applications"
+    },
+    "tr": {
+      "title": "Galeri | Turkal Alüminyum",
+      "description": "Galerimizi keşfedin ve çeşitli uygulamalarda alüminyum profillerimizin üretim aşamalarını ve kalitesini görün.",
+      "keywords": "alüminyum üretim galerisi, Turkal Alüminyum kalitesi, profil uygulamaları"
+    },
+    "ar": {
+      "title": "معرض الصور | تركال للألمنيوم",
+      "description": "تصفح معرضنا لترى مراحل الإنتاج وجودة بروفيلات الألمنيوم في التطبيقات المختلفة.",
+      "keywords": "معرض إنتاج الألمنيوم, جودة تركال للألمنيوم, تطبيقات البروفيلات"
+    }
+  }
+  }
+
+
+  
