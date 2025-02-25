@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         } else {
             throw new Exception("Geçersiz gönderen e-posta adresi: $smtpUsername");
         }
-        $mail->addAddress('ahmetbahar.0987@gmail.com');
+        $mail->addAddress('');
         if ($userEmail) {
             $mail->addReplyTo($userEmail, $name);
         }
